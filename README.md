@@ -5,13 +5,13 @@ A curated collection of [Agent Skills](https://agentskills.io/home) for frontend
 ## Installation
 
 ```bash
-pnpx skills add ahmadzakiy/skills --skill='*'
+npx skills add ahmadzakiy/skills --skill 'pixel'
 ```
 
 or to install all of them globally:
 
 ```bash
-pnpx skills add ahmadzakiy/skills --skill='*' -g
+npx skills add ahmadzakiy/skills --skill 'pixel' -g
 ```
 
 Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills).
@@ -21,8 +21,8 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 | Skill                                                   | Description                                                                                                                                    |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [pixel](skills/pixel)                                   | Pixel-perfect implementation with comprehensive reference documentation for code structure, components, design tokens, and styling conventions |
-| [figma-implement-design](skills/figma-implement-design) | Implementing Figma designs into code, bridging the gap between design and development                                                          |
-| [frontend-design](skills/frontend-design)               | Frontend design skills with comprehensive documentation and best practices                                                                     |
+| [figma-implement-design](skills/figma-implement-design) | Implementing Figma designs into code, bridging the gap between design and development, created by Figma                                        |
+| [frontend-design](skills/frontend-design)               | Frontend design skills with comprehensive documentation and best practices, created by Antrophic                                               |
 
 ## License
 
