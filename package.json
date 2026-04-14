@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "zakiy-skills",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Zakiy's curated collection of agent skills",
   "author": "Ahmad Zakiy",
   "license": "MIT"
