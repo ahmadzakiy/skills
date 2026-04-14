@@ -18,12 +18,10 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 
 ## Skills
 
-| Skill                                                   | Description                                                                                                                          |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [pixel](skills/pixel)                                   | Pixel design system implementation with comprehensive reference documentation for components, design tokens, and styling conventions |
-| [pixel-2026.2.18](skills/pixel-2026.2.18)               | Pinned Pixel release for reproducible use of the 2026.2.18 skill version                                                             |
-| [figma-implement-design](skills/figma-implement-design) | Implementing Figma designs into code, bridging the gap between design and development, created by Figma                              |
-| [frontend-design](skills/frontend-design)               | Frontend design skills with comprehensive documentation and best practices, created by Antrophic                                     |
+| Skill                                     | Description                                                                                                                          |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| [pixel](skills/pixel)                     | Pixel design system implementation with comprehensive reference documentation for components, design tokens, and styling conventions |
+| [pixel-2026.2.18](skills/pixel-2026.2.18) | Pinned Pixel release for reproducible use of the 2026.2.18 skill version                                                             |     |
 
 ## Versioning
 
