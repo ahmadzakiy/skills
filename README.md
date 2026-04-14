@@ -18,10 +18,10 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 
 ## Skills
 
-| Skill                                     | Description                                                                                                                          |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| [pixel](skills/pixel)                     | Pixel design system implementation with comprehensive reference documentation for components, design tokens, and styling conventions |
-| [pixel-2026.2.18](skills/pixel-2026.2.18) | Pinned Pixel release for reproducible use of the 2026.2.18 skill version                                                             |     |
+| Skill                                     | Type           | Description                                                                                                                          |
+| ----------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [pixel](skills/pixel)                     | Latest alias   | Pixel design system implementation with comprehensive reference documentation for components, design tokens, and styling conventions |
+| [pixel-2026.2.18](skills/pixel-2026.2.18) | Pinned release | Reproducible Pixel snapshot for the 2026.2.18 skill version                                                                          |
 
 ## Versioning
 
