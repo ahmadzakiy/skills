@@ -5,13 +5,13 @@ A curated collection of [Agent Skills](https://agentskills.io/home) for frontend
 ## Installation
 
 ```bash
-npx skills add ahmadzakiy/skills --skill 'pixel'
+npx skills add ahmadzakiy/skills --skill pixel
 ```
 
 or to install all of them globally:
 
 ```bash
-npx skills add ahmadzakiy/skills --skill 'pixel' -g
+npx skills add ahmadzakiy/skills --skill pixel -g
 ```
 
 Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills).
